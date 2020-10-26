@@ -1,4 +1,3 @@
-id ="1ididi"
-id1 = "1ididi2"
-print(id)
-print(id1)
+first_name ="tarun"
+last_name = "kumar"
+print (first_name)
